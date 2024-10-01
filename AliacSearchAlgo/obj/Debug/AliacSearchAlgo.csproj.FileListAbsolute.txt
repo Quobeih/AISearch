@@ -1,0 +1,9 @@
+D:\Documents\Doctorate Files\1st sem 2024-2025\Intelligence System\Searching\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.exe
+D:\Documents\Doctorate Files\1st sem 2024-2025\Intelligence System\Searching\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.pdb
+D:\Documents\Doctorate Files\1st sem 2024-2025\Intelligence System\Searching\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.AssemblyReference.cache
+D:\Documents\Doctorate Files\1st sem 2024-2025\Intelligence System\Searching\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Form1.resources
+D:\Documents\Doctorate Files\1st sem 2024-2025\Intelligence System\Searching\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Properties.Resources.resources
+D:\Documents\Doctorate Files\1st sem 2024-2025\Intelligence System\Searching\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.GenerateResource.cache
+D:\Documents\Doctorate Files\1st sem 2024-2025\Intelligence System\Searching\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.CoreCompileInputs.cache
+D:\Documents\Doctorate Files\1st sem 2024-2025\Intelligence System\Searching\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.exe
+D:\Documents\Doctorate Files\1st sem 2024-2025\Intelligence System\Searching\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.pdb
